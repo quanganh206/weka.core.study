@@ -1,6 +1,6 @@
 # weka.core.study
 
-# Simple exampleS
+# Simple examples
 - Classification
 - Regression
 - Clustering
